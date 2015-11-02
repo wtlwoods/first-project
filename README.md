@@ -35,11 +35,11 @@
 </div>
 </div>
 <div class="row">
-<div class="col-sm-4"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE5eAk2Si87usDrFlWrNK61rhn1zjfQYHqkRI-GxneAdSJ1AYm" class="img-thumbnail" alt="Cinque Terre" width="304" height="236" />
+<div class="col-sm-4"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE5eAk2Si87usDrFlWrNK61rhn1zjfQYHqkRI-GxneAdSJ1AYm" class="img-thumbnail" alt="Cinque Terre" width="120" height="120" />
 <p>Die Internationale Raumstation (englisch International Space Station, kurz ISS) ist eine bemannte Raumstation, die in internationaler Kooperation betrieben und ausgebaut wird. Die Pläne für eine große inter­nationale Raumstation gehen bis in die 1980er Jahre zurück. <a href"#">Learn More</a></p>
 </div>
-<div class="col-sm-4"><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpfMzFknb-RrbEuS-BIq88B6DZ__eE8rsroWSwawTCi9wdVXN_zA" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"/><p>Die Internationale Raumstation (englisch International Space Station, kurz ISS) ist eine bemannte Raumstation, die in internationaler Kooperation betrieben und ausgebaut wird. Die Pläne für eine große inter­nationale Raumstation gehen bis in die 1980er Jahre zurück. <a href="#">Learn More</a></p></div>
-<div class="col-sm-4"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSZnIiN_6W5ymtHYUoYAYbBmvsWh6S5sOyUn002YVaqUNiuXQmQ" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"/><p>Die Internationale Raumstation (englisch International Space Station, kurz ISS) ist eine bemannte Raumstation, die in internationaler Kooperation betrieben und ausgebaut wird. Die Pläne für eine große inter­nationale Raumstation gehen bis in die 1980er Jahre zurück. <a href="#">Learn More</a></p></div>
+<div class="col-sm-4"><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpfMzFknb-RrbEuS-BIq88B6DZ__eE8rsroWSwawTCi9wdVXN_zA" class="img-thumbnail" alt="Cinque Terre" width="120" height="120"/><p>Die Internationale Raumstation (englisch International Space Station, kurz ISS) ist eine bemannte Raumstation, die in internationaler Kooperation betrieben und ausgebaut wird. Die Pläne für eine große inter­nationale Raumstation gehen bis in die 1980er Jahre zurück. <a href="#">Learn More</a></p></div>
+<div class="col-sm-4"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSZnIiN_6W5ymtHYUoYAYbBmvsWh6S5sOyUn002YVaqUNiuXQmQ" class="img-thumbnail" alt="Cinque Terre" width="120" height="120"/><p>Die Internationale Raumstation (englisch International Space Station, kurz ISS) ist eine bemannte Raumstation, die in internationaler Kooperation betrieben und ausgebaut wird. Die Pläne für eine große inter­nationale Raumstation gehen bis in die 1980er Jahre zurück. <a href="#">Learn More</a></p></div>
 </div>
 <footer>
 Melisa Pettaway &copy;Copyright 2015
