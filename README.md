@@ -13,6 +13,8 @@
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <link rel='stylesheet' type='text/css' href='http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css'/>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+
+<-------beginning of content--------->
 <nav class="navbar navbar-default" style="background-color:lavender">
 <div class="container-fluid">
 <div class="navbar-header">
