@@ -49,13 +49,13 @@ Melisa Pettaway &copy;Copyright 2015
 
 <script type="text/css">
 $(document).ready(function(){
-  $('button').click(function(){
+  $('button').hover(function(){
     $(this).fadeOut('slow', 1);
   });
   });
   
   $(document).ready(function(){
-    $('button').click(function(){
+    $('button').hover(function(){
       $(this).fadeIn('slow',1);
           });
     
