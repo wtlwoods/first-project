@@ -54,12 +54,9 @@ $(document).ready(function(){
   });
   });
   
-  $(document).ready(function(){
-    $('button').hover(function(){
-      $(this).fadeIn('slow',1);
-          });
+  
     
-  });
+
 </script>
 </body>
 </html>
