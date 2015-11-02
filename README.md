@@ -43,7 +43,7 @@
 <a href="#"><button type="button" class="btn btn-info">Contact  Us</button></a> <a href="#"><button type="button" class="btn btn-info">Learn More</button></a>
 </div>
 
-<footer>
+<footer style="background-color:#777777">
 Melisa Pettaway &copy;Copyright 2015
 </footer>
 
