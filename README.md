@@ -55,7 +55,11 @@ Melisa Pettaway &copy;Copyright 2015
 $(document).ready(function(){
   $('button').hover(function(){
     $(this).fadeOut('slow', 1);
-  });
+      });
+      $('button').hover(function(){
+        $(this).fadeIn('slow',1);
+        
+      });
   });
   
   
