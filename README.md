@@ -6,6 +6,7 @@
 <meta charset="utf-8"> 
 <title>first project</title>
 <link rel="stylesheet" type="text/css"  href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel='stylesheet' type='text/css' href='http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css'/>
 <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
@@ -16,12 +17,14 @@
 <nav class="navbar navbar-default" style="background-color:lavender">
 <div class="container-fluid">
 <div class="navbar-header">
-<div class="navbar-brand" href="#">ABC Childcare</a></div>
+<!-- href="# in followiing line moved into a  <a> tag-->
+<div class="navbar-brand" > <a href="#">ABC Childcare</a></div>
 <div>
 <ul>
-<a href="#"><li>Home</li></a>
-<a href="#"><li>About</li></a>
-<a href="#"><li>Contact</li></a>
+<!--Changed <a> tag placement-->
+  <li> <a href="#">Home </a></li>
+  <li><a href="#">About</a></li>
+  <li><a href="#">Contact</a></li>
 </ul>
 </div>
 </div>
@@ -51,8 +54,8 @@
 <footer style="background-color:#777777;">
 Melisa Pettaway &copy;Copyright 2015
 </footer>
-
-<script type="text/css">
+<!-- type=text/css removed from following line-->
+<script>
 $(document).ready(function(){
   $('button').hover(function(){
     $(this).fadeOut('slow', 1);
@@ -66,7 +69,7 @@ $(document).ready(function(){
   </script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-<link rel='stylesheet' type='text/css' href='http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css'/>
+<!-- line that was here is moved to header section-->
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
 </body>
 </html>
