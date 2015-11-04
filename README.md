@@ -2,9 +2,9 @@
 
 <html>
 <head>
-<title>first project</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8"> 
+<title>first project</title>
 <link rel="stylesheet" type="text/css"  href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="main.css">
 </head>
@@ -32,7 +32,7 @@
 <div class="container">
 <div class="jumbotron">
 <h1>ABC Childcare</h1>
-<p style="font-family:Vivaldi, Cursive">"where children play and learn</p>
+<p style="font-family:Vivaldi, Cursive, Times New Roman">Die Internationale Raumstation (englisch International Space Station, kurz ISS) ist eine bemannte Raumstation, die in internationaler Kooperation betrieben und ausgebaut wird.</p>
 </div>
 </div>
 <!-------tumbnails with text------->
